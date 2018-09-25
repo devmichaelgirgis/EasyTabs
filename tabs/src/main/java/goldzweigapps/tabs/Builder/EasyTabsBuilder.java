@@ -23,7 +23,7 @@ import goldzweigapps.tabs.Adapters.ViewPagerAdapter;
 import goldzweigapps.tabs.Interface.TabsListener;
 import goldzweigapps.tabs.Items.AdapterItem;
 import goldzweigapps.tabs.Items.TabItem;
-import goldzweigapps.tabs.View.EasyTabs;
+import goldzweigapps.tabs.customview.EasyTabs;
 
 @SuppressWarnings("UnusedDeclaration")
 public class EasyTabsBuilder{

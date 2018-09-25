@@ -9,7 +9,7 @@ import goldzweigapps.tabs.Builder.EasyTabsBuilder;
 import goldzweigapps.tabs.Colors.EasyTabsColors;
 import goldzweigapps.tabs.Interface.TabsListener;
 import goldzweigapps.tabs.Items.TabItem;
-import goldzweigapps.tabs.View.EasyTabs;
+import goldzweigapps.tabs.customview.EasyTabs;
 
 public class MainActivity extends AppCompatActivity {
     EasyTabs tab;

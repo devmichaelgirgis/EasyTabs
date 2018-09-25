@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context="goldzweigapps.easytabs.MainActivity">
 
-    <goldzweigapps.tabs.View.EasyTabs
+    <goldzweigapps.tabs.customview.EasyTabs
         android:id="@+id/EasyTabs"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -1,4 +1,4 @@
-package goldzweigapps.tabs.View;
+package goldzweigapps.tabs.customview;
 
 
 import android.content.Context;
